@@ -1,0 +1,11 @@
+### Intermediate ###
+**/build/
+*.o
+*.s
+*.d
+
+*.vcd
+*.gtkw
+*.view
+
+**/pico.log
