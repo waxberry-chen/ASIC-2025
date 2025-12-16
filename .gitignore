@@ -1,7 +1,6 @@
 ### Intermediate ###
 **/build/
 *.o
-*.s
 *.d
 
 *.vcd
